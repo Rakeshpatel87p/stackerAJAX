@@ -35,10 +35,19 @@
 	margin-left: 3em;
 }
 
-.result {
+.result,
+.inspiration {
 	border: 1px solid black;
 	padding: 5px;
 	margin: 0 auto 1em auto;
+	
+}
+
+.inspiration{
+	margin-top:8%;
+	display:inline-block;
+	width:33%;
+	vertical-align:top;
 }
 
 .error {
